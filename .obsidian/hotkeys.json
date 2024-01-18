@@ -1,0 +1,19 @@
+{
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:context-menu": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Enter"
+    }
+  ]
+}

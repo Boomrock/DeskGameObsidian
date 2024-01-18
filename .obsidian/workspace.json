@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "304490b5db01c0e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "537f8203d6f8e34f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2916b129ef63de28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ba6091feb4cd508",
+    "type": "split",
+    "children": [
+      {
+        "id": "7378e9287a3abc6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03a5202bd447adfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "f0a0aef4caf63196",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "069264dc7ce4f9cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d715646172d7236",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c42fec7d3291eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41b29a950b3daf6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5a49a6030626e17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "236c88778e73b25a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6550aee18cab1908",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "03a5202bd447adfe",
+  "lastOpenFiles": [
+    "DeskGameObsidian",
+    "Без названия.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Леша/Без названия/Бафы.md",
+    "Настолка/Шахта.md",
+    "Леша/Порядок хода.md",
+    "Леша/Игровой процесс.md",
+    "Леша/Без названия.md",
+    "Леша/Без названия/Ферма.md",
+    "Леша/Без названия/Шахта.md",
+    "Леша/Без названия/Стрелки.md",
+    "Леша/Без названия/Стена.md",
+    "Леша/Без названия/Разведчики.md",
+    "Леша/Без названия/Повозка(1).md",
+    "Леша/Без названия/Пехота.md",
+    "Леша/Без названия/Охотничий.md",
+    "Леша/Без названия/Отряды(5).md",
+    "Леша/Без названия/Монстры(6).md",
+    "Леша/Без названия/Конница.md",
+    "Леша/Без названия/Карточки(5).md",
+    "Леша/Без названия/Здания(4).md",
+    "Леша/Без названия/Главная крепость.md",
+    "Леша/Без названия",
+    "Настолка/Порядок хода.md",
+    "Настолка/Игровой процесс.md",
+    "Настолка/Без названия.md",
+    "Настолка/Без названия/Шахта.md",
+    "Настолка/Без названия/Ферма.md",
+    "Настолка/Без названия",
+    "Леша",
+    "Новая папка",
+    "__rar_8596.37759",
+    "Архив WinRAR.rar",
+    "Настольная игра(правила)",
+    "Настолка",
+    "Процедурная генерация/Изображения/Pasted image 20240110194757.png",
+    "Процедурная генерация/Изображения",
+    "Процедурная генерация/Шумовые функции",
+    "Процедурная генерация/Изображения/Pasted image 20240110194707.png",
+    "Процедурная генерация/Изображения/Pasted image 20240110194617.png",
+    "Процедурная генерация/Pasted image 20240110194445.png",
+    "Процедурная генерация/Изображения/Pasted image 20240110194554.png"
+  ]
+}
